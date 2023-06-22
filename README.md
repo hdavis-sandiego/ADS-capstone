@@ -1,1 +1,1 @@
-# ADS-capstone
+# ADS: Capstone
